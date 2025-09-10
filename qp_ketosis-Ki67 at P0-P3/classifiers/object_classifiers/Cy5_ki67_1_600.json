@@ -1,0 +1,15 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "Nucleus: Cy5 mean",
+    "pathClassEquals": "KI67",
+    "pathClassAbove": "KI67",
+    "threshold": 600.0
+  },
+  "pathClasses": [
+    "KI67"
+  ],
+  "filter": "DETECTIONS_ALL",
+  "timestamp": 1737974945508
+}
