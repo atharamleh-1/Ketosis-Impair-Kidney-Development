@@ -1,0 +1,24 @@
+{
+  "pathClasses": [
+    {
+      "name": "LED-DAPI_Q",
+      "color": -16776961
+    },
+    {
+      "name": "Ignore*",
+      "color": -4934476
+    },
+    {
+      "name": "Tissue",
+      "color": -16711681
+    },
+    {
+      "name": "NPCs",
+      "color": -1237591
+    },
+    {
+      "name": "ki67 Positive",
+      "color": -15247198
+    }
+  ]
+}
