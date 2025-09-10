@@ -1,0 +1,15 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "Nucleus: Cy3 mean",
+    "pathClassEquals": "NPCs",
+    "pathClassAbove": "NPCs",
+    "threshold": 820.0
+  },
+  "pathClasses": [
+    "NPCs"
+  ],
+  "filter": "DETECTIONS_ALL",
+  "timestamp": 1756714554502
+}

@@ -1,0 +1,48 @@
+{
+  "pathClasses": [
+    {
+      "name": "Ignore*",
+      "color": -4934476
+    },
+    {
+      "name": "Tcell",
+      "color": -256
+    },
+    {
+      "name": "EDU",
+      "color": -16711681
+    },
+    {
+      "name": "positive",
+      "color": -15258167
+    },
+    {
+      "name": "Tissue",
+      "color": -16711681
+    },
+    {
+      "name": "Bowman",
+      "color": -16711681
+    },
+    {
+      "name": "Capsule",
+      "color": -16711936
+    },
+    {
+      "name": "KI67",
+      "color": -16711681
+    },
+    {
+      "name": "NPCs",
+      "color": -16711681
+    },
+    {
+      "name": "TNFa",
+      "color": -145177
+    },
+    {
+      "name": "TNFa: NPCs",
+      "color": -16711936
+    }
+  ]
+}

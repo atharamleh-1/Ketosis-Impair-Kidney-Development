@@ -1,0 +1,35 @@
+{
+  "object_classifier_type": "CompositeClassifier",
+  "classifiers": [
+    {
+      "object_classifier_type": "SimpleClassifier",
+      "function": {
+        "classifier_fun": "ClassifyByMeasurementFunction",
+        "measurement": "Cytoplasm: Cy5 mean",
+        "pathClassEquals": "TNFa",
+        "pathClassAbove": "TNFa",
+        "threshold": 300.0
+      },
+      "pathClasses": [
+        "TNFa"
+      ],
+      "filter": "DETECTIONS_ALL",
+      "timestamp": 1756715104879
+    },
+    {
+      "object_classifier_type": "SimpleClassifier",
+      "function": {
+        "classifier_fun": "ClassifyByMeasurementFunction",
+        "measurement": "Nucleus: Cy3 mean",
+        "pathClassEquals": "NPCs",
+        "pathClassAbove": "NPCs",
+        "threshold": 820.0
+      },
+      "pathClasses": [
+        "NPCs"
+      ],
+      "filter": "DETECTIONS_ALL",
+      "timestamp": 1756714554502
+    }
+  ]
+}

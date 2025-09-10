@@ -1,0 +1,15 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "Cytoplasm: Cy5 mean",
+    "pathClassEquals": "TNFa",
+    "pathClassAbove": "TNFa",
+    "threshold": 300.0
+  },
+  "pathClasses": [
+    "TNFa"
+  ],
+  "filter": "DETECTIONS_ALL",
+  "timestamp": 1756715104879
+}
